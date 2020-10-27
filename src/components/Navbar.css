@@ -1,0 +1,160 @@
+/*------------Nabvar-------------*/
+#nav{
+    background-color: royalblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.s{
+    background-color:green;
+}
+
+.navshop{
+    color: white;
+}
+
+#navcarticon{
+    color: white;
+    size: 40px;
+    margin-left: 50px;
+    
+}
+.navcart{
+    color:white
+    
+}
+.navlog{
+    color: white;
+   
+}
+
+/*-------------Cart Page-----------------*/
+#place_order{
+    margin-left: 470px;
+   
+}
+
+/*--------------Order Page-------------*/
+.order1{
+    color:red;
+    margin-top: 180px;
+    text-align: center;
+}
+.order{
+    color: green;
+   text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#menu{
+    height: 100px;
+    
+    background-color: grey;
+}
+#menu_items{
+    margin-top: 40px;
+    height: 30px;
+}
+div.scrollmenu {
+    background-color: rgb(161, 47, 255);
+      align-content: center;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+
+
+
+.butn{
+    
+    background-color: yellow;
+    border: none;
+}
+
+.big_i{
+    height: 40px;
+    width: 40px;
+}
+.big{
+    color: red;
+}
+.basket{
+    color: green;
+    margin-left: 70px;
+}
+.fe{
+    margin-left: 20px;
+}
+*/
+
